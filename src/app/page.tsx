@@ -65,7 +65,7 @@ export default function Home() {
       img: Instagram,
       link: "https://www.instagram.com/d4ro_diary/",
     },
-    { name: "mailLine", img: maillINE, link: "mailto:shkardeary4@gmail.com" },
+    { name: "mailLine", img: MaillINE, link: "mailto:shkardeary4@gmail.com" },
   ];
   return (
     <main className="  ">
