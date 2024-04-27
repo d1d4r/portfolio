@@ -1,10 +1,7 @@
 import Facebook from "@/../public/image/Facebook.png";
 import Instagram from "@/../public/image/Instagram.png";
-<<<<<<< HEAD
-import MaillINE from "@/../public/image/mailLine.png";
-=======
+
 import mailLine from "@/../public/image/mailLine.png";
->>>>>>> origin/shkarDiary-patch-1
 import nextjs from "@/../public/image/nextjs.png";
 import python from "@/../public/image/Python-logo-notext.png";
 import sprinBoot from "@/../public/image/spring-boot-logo.png";
