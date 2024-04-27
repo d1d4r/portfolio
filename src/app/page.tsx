@@ -1,6 +1,10 @@
 import Facebook from "@/../public/image/Facebook.png";
 import Instagram from "@/../public/image/Instagram.png";
+<<<<<<< HEAD
 import MaillINE from "@/../public/image/mailLine.png";
+=======
+import mailLine from "@/../public/image/mailLine.png";
+>>>>>>> origin/shkarDiary-patch-1
 import nextjs from "@/../public/image/nextjs.png";
 import python from "@/../public/image/Python-logo-notext.png";
 import sprinBoot from "@/../public/image/spring-boot-logo.png";
@@ -65,7 +69,7 @@ export default function Home() {
       img: Instagram,
       link: "https://www.instagram.com/d4ro_diary/",
     },
-    { name: "mailLine", img: MaillINE, link: "mailto:shkardeary4@gmail.com" },
+    { name: "mailLine", img: mailLine, link: "mailto:shkardeary4@gmail.com" },
   ];
   return (
     <main className="  ">
